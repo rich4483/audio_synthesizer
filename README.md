@@ -3,8 +3,8 @@ Audio Synthesizer based on Atmel microcontroller
 
 As development of this project pre-dates GitHub, this repo is used for sharing purposes only. It is not a development repo. It contains:
 
-941-01A6.pdf (PDF schematic of hardware design)
-941-01x5.asm (Assembly language source code)
+- 941-01A6.pdf (PDF schematic of hardware design)
+- 941-01x5.asm (Assembly language source code)
 
 The schematic was created using Protel schematic capture (later acquired by Altium). 
 
