@@ -5,7 +5,8 @@ As development of this project pre-dates GitHub, this repo is used for sharing p
 
 - 941-01A6.pdf (PDF schematic of hardware design)
 - 941-01x5.asm (Assembly language source code)
-- recorded_tunes_1-255 (wav file recordings of tunes)
+- recorded tunes 1-255 (wav file recordings of tunes)
+- Tune List.pdf (list of tune names)
 
 The schematic was created using Protel schematic capture (later acquired by Altium). 
 
